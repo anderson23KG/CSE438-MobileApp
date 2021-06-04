@@ -1,0 +1,6 @@
+framework module Pods_AndersonGonzalez_lab4FinalVersion {
+  umbrella header "Pods-AndersonGonzalez-lab4FinalVersion-umbrella.h"
+
+  export *
+  module * { export * }
+}
